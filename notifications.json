@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "title": "ae n8",
+    "message": "qwd j",
+    "type": "Routine",
+    "timestamp": "2026-10-13 15:17:12"
+  },
+  {
+    "id": 4,
+    "title": "Opening of New semester",
+    "message": "we will resume on moday",
+    "type": "Routine",
+    "timestamp": "2026-10-13 11:33:51"
+  },
+  {
+    "id": 3,
+    "title": "Fees Reminder",
+    "message": "Pay your fee by 2nd august",
+    "type": "Routine",
+    "timestamp": "2026-08-12 23:18:45"
+  },
+  {
+    "id": 2,
+    "title": "Emergency Security Alert",
+    "message": "Students are advised to remain indoors until further notice.",
+    "type": "Routine",
+    "timestamp": "2026-08-12 01:36:03"
+  },
+  {
+    "id": 1,
+    "title": "Library Book Return Reminder",
+    "message": "All students are reminded to return borrowed library books by Friday.",
+    "type": "Routine",
+    "timestamp": "2026-08-12 01:34:39"
+  }
+]
